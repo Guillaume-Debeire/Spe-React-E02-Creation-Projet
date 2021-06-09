@@ -1,0 +1,12 @@
+{
+  "name": "start",
+  "version": "1.0.0",
+  "description": "a simple webpack config",
+  "main": "src/index.js",
+  "repository": "git@github.com:Guillaume-Debeire/Spe-React-E02-Creation-Projet.git",
+  "author": "guillaume-debeire <guillaume@debeire.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^5.38.1"
+  }
+}
