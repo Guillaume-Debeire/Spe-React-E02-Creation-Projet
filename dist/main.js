@@ -1,1 +1,1 @@
-console.log(5);
+(()=>{"use strict";var o="coucou depuis toto.js";console.log(o),console.log(o),console.log(5)})();
